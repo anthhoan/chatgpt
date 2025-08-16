@@ -1,0 +1,8 @@
+SELECT *
+FROM Employees;
+
+SELECT FirstName, LastName
+FROM Employees;
+
+SELECT DISTINCT Department
+FROM Employees;
