@@ -1,0 +1,7 @@
+SELECT *
+FROM Employees
+ORDER BY LastName ASC;
+
+SELECT *
+FROM Employees
+ORDER BY Salary DESC;
